@@ -78,4 +78,4 @@ python gemini_translate_v4.py
 ## Notes
 
 - Re-running scripts is safe: translation progress is stored in `mapping.json` and completed chunks are skipped.
-- It is strongly recommended to go to Processing_Files/<YourFolderName>/glossary.json after generating the Glossary, and updating the English names as required before running further steps.
+- It is strongly recommended to go to Processing_Files/YourFolderName/glossary.json after generating the Glossary, and updating the English names as required before running further steps.
